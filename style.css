@@ -13,7 +13,7 @@
   height: 850px;
   display: flex;
   position: absolute;
-  background-color: rgba(225, 175, 188, 0.69);
+  background-color: rgba(225, 175, 188, 0.448);
 }
 .flower-shop-text {
   top: 197px;
@@ -49,9 +49,9 @@
 }
 .flower-shop-pngwing10 {
   top: 48px;
-  right: 17px;
+  right: 220px;
   width: 635px;
-  height: 800px;
+  height: auto;
   position: absolute;
 }
 .flower-shop-button {
@@ -540,6 +540,7 @@
   border-radius: 9px;
   margin-right: 10px;
 }
+
 .flower-shop-button2 {
   color: #ffffff;
   width: 150px;
@@ -566,7 +567,7 @@
   top: 4900px;
   left: 0px;
   right: 0px;
-  width: 1950px;
+  width: 1920px;
   height: 449px;
   margin: auto;
   display: flex;
@@ -645,10 +646,11 @@
 }
 .btn {
     display: inline-block;
-    background-color: #333;
+    background-color: #e63c6f;
     color: #fff;
     padding: 10px 20px;
     margin-top: 10px;
+    border-radius: 7px;
 }
 .btn:hover {
     background-color: #555;
