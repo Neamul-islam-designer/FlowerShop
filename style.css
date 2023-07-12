@@ -52,7 +52,7 @@
   right: 220px;
   width: 635px;
   height: auto;
-  position:fixed;
+  position: absolute;
 }
 .flower-shop-button {
   gap: 10px;
